@@ -1,3 +1,6 @@
 # blog
 
-I am just trying to put in words the things I know. I'm here to share a few things which might be useful to someone. My senior inspired me to write my blog in the issues tab. I'm just starting to share my views, so please overlook the mistakes.
+I am just trying to put in words the things I know. I'm here to share a few things which might be useful to someone. My senior inspired me to write my blog on the issues tab. I'm just starting to share my views, so please overlook the mistakes.
+
+1. [How to sync files over the cloud over multiple computers?](https://github.com/nishanthsolomon/blog/issues/1)
+2. [My Experience as research aid in DSCL](https://github.com/nishanthsolomon/blog/issues/2)
